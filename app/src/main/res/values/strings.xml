@@ -3,4 +3,5 @@
     <string name="title">Title</string>
     <string name="text_line_1">Text Line 1</string>
     <string name="text_line_2">Text Line 2</string>
+    <string name="applying_a_transition">Applying a Transition</string>
 </resources>
